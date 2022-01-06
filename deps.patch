@@ -1,0 +1,10 @@
+--- fasteners-0.14.1/setup.py~	2015-11-13 06:46:46.000000000 +0000
++++ fasteners-0.14.1/setup.py	2018-02-04 17:28:28.525157450 +0000
+@@ -26,7 +26,6 @@
+ 
+ install_requires = [
+     'six',
+-    'monotonic>=0.1',
+ ]
+ 
+ setup(
