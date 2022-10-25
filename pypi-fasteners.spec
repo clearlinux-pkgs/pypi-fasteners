@@ -4,7 +4,7 @@
 #
 Name     : pypi-fasteners
 Version  : 0.18
-Release  : 70
+Release  : 71
 URL      : https://files.pythonhosted.org/packages/f5/9a/e613fc7f7fa157bea028d8d823a13ba5583a49a2dea926ca86b6cbf0fd00/fasteners-0.18.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f5/9a/e613fc7f7fa157bea028d8d823a13ba5583a49a2dea926ca86b6cbf0fd00/fasteners-0.18.tar.gz
 Summary  : A python package that provides useful locks
