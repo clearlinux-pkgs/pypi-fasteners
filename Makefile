@@ -1,5 +1,5 @@
 PKG_NAME := pypi-fasteners
-URL = https://files.pythonhosted.org/packages/f5/9a/e613fc7f7fa157bea028d8d823a13ba5583a49a2dea926ca86b6cbf0fd00/fasteners-0.18.tar.gz
+URL = https://files.pythonhosted.org/packages/5f/d4/e834d929be54bfadb1f3e3b931c38e956aaa3b235a46a3c764c26c774902/fasteners-0.19.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
